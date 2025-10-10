@@ -7,5 +7,6 @@
 </head>
 <body>
     <h2>m.rizki akbar</h2>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Adipisci, deserunt nesciunt facere cum temporibus deleniti excepturi praesentium inventore aliquam officiis suscipit blanditiis explicabo natus libero dolor, aperiam at, voluptate esse.</p>
 </body>
 </html>
