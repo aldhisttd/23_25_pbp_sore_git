@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>budi</h1>
+    <h1>Ini Form Login</h1>
 </body>
 </html>
