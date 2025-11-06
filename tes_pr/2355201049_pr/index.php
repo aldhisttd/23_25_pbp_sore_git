@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>tofa ardiansyah putra</h1>
+    <h1 style="color : red">tofa ardiansyah putra</h1>
 </body>
 </html>
