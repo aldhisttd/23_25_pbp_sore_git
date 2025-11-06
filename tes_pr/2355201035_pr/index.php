@@ -6,10 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Aldhi Albadri</h1>
-    <ul>
-        <li>hafiz</li>
-        <li>Aldi</li>
-    </ul>
+    <h1 style="color:red">Budi Santoso</h1>
 </body>
 </html>

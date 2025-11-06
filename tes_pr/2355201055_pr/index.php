@@ -6,10 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Aldhi Albadri</h1>
-    <ul>
-        <li>hafiz</li>
-        <li>Aldi</li>
-    </ul>
+    <h1 style="color: red;"> Nama saya nur tasya sarita</h1>
+    
 </body>
 </html>
