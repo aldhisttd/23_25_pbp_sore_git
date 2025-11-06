@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Fahrul zikri</h1>
+    <h1>Fahrul Zikri</h1>
 </body>
 </html>
