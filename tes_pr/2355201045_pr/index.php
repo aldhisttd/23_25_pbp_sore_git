@@ -1,3 +1,4 @@
 <html>
-    <h1>Muhammad Hafiz Ramadhan</h1>
+
+    <h1 style="color : red">Muhammad Hafiz Ramadhan</h1>
 </html>
