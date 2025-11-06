@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1 style="color: red;">m.rizki akbar</h1>
+    <h1 style="color: red;">m. rizki akbar</h1>
 </body>
 </html>
