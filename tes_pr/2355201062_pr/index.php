@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-     <h1 style="color: red;">DESI KHIRUNNISA</h1>
+     <h1 style="color: blue;">DESI KHIRUNNISA</h1>
 </body>
 </html>
