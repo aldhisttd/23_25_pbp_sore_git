@@ -56,7 +56,7 @@ $nama = $data['nama'];
 $q = "INSERT INTO mahasiswa(nim, nama) VALUES('$nim','$nama')";
 $koneksi->query($q);
 $id = $koneksi->insert_id;
-
+ 
 echo json_encode([
     'status' => 'success',
     'msg' => 'Proses berhasil',
