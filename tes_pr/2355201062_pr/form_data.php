@@ -50,7 +50,7 @@ if (count($errors) > 0) {
 }
 
 // insert ke db
-$koneksi = new mysqli('localhost', 'root', '', 'be');
+$koneksi =new mysqli('localhost', 'root', '', 'be');
 $nim = $data['nim'];
 $nama = $data['nama'];
 $q = "INSERT INTO mahasiswa(nim, nama) VALUES('$nim','$nama')";
